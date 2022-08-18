@@ -2,7 +2,7 @@ import serial
 import pymysql
 import time
 
-connection = pymysql.connect(host="localhost", user="root", passwd="", database="sensors")
+connection = pymysql.connect(host="localhost", user="root", passwd="", database="oas_db")
 cursor = connection.cursor()
 
 ser = serial.Serial('COM6', 9600)
