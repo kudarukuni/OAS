@@ -14,3 +14,6 @@ IRQ is not connected.
 Similarly connect 
 Arduino TX, RX pins to ESP8266 D1, D2 Pins (black, red)
 Also, supply Power to Node MCU by connecting its VCC and GND Pins.
+
+username: oasdata123@gmail.com
+password: oasdata$$321
