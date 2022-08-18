@@ -2,13 +2,13 @@ import time
 import serial
 import smtplib
 
-TO = 'krukuni@gmail.com'
-GMAIL_USER = 'krukuni@gmail.com'
-GMAIL_PASS = 'kudajudge&&1994'
-SUBJECT = 'Transformer Anti-Theft System Alert'
-TEXT1 = 'Intruder alert !! To see more details go to http://www.tats.ga'
+TO = 'oasdata123@gmail.com'
+GMAIL_USER = 'oasdata123@gmail.com'
+GMAIL_PASS = 'oasdata$$321'
+SUBJECT = 'Orphanage Attendance System'
+TEXT1 = 'Inmate Alert !! To see more details go to http://www.oas.ga'
   
-ser = serial.Serial('COM10', 115200)
+ser = serial.Serial('COM4', 115200)
 
 def send_email():
     print("Sending Email")
