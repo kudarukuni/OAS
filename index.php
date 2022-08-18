@@ -8,7 +8,7 @@
 	$password = "";
 	$dbname = "oas_db";
 	$con = mysqli_connect($server, $username, $password, $dbname) or die("unable to connect");
-	$sql = "SELECT * FROM sensordata";
+	$sql = "SELECT * FROM inmates";
 	echo '  <table cellspacing = "5" cellpadding="5"><tr><th>ID</th><th>INMATE</th><th>TIME</th><th>DATE</th></tr>';
 	$result=mysqli_query($con,$sql);
 	if ($result->num_rows > 0) {
