@@ -27,11 +27,11 @@ void loop(){
   
   content.toUpperCase();
   
-  if(content.substring(1) == "C6 00 51 2B " ){
+  if(content.substring(1) == "C6 00 51 2B" ){
     Serial.println("Thandolwenkosi Munenge");    
     delay(3000);
   }
-  if(content.substring(1) ==  "99 7D 80 C1 " ){
+  if(content.substring(1) ==  "99 7D 80 C1" ){
     Serial.println("Elon Musk");   
     delay(3000);
   }

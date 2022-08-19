@@ -16,7 +16,7 @@ for i in range(50):
     print(string)
     data.append(string)
 
-    sql = 'INSERT INTO sensordata(Motion, Time, Date) VALUES(%s, now(), now())'
+    sql = 'INSERT INTO inmates(inmate, date, time) VALUES(%s, now(), now())'
     
     cursor.execute(sql, b)
     connection.commit()

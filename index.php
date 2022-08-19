@@ -14,9 +14,9 @@
 	if ($result->num_rows > 0) {
 	    while($row = $result->fetch_assoc()) { 
 	    	$row_id = $row["id"];
-	      	$row_motion = $row["Inmate"];
-	      	$row_time = $row["Time"];
-	      	$row_date = $row["Date"];
+	      	$row_motion = $row["inmate"];
+	      	$row_time = $row["date"];
+	      	$row_date = $row["time"];
 	        echo '	<tr><td>' . $row_id . '</td><td>' . $row_motion . '</td><td>' . $row_time . '</td><td>' . $row_date . '</td></tr>';
 		}
 	}
