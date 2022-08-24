@@ -1,7 +1,7 @@
 # OAS
 <h3><b>The Orphanage Attendance System</b></h3>
 
-<span style="color: #42b3f5"><b>Arduino IDE Dependencies</b></span> <br>
+<span style="color: green"><b>Arduino IDE Dependencies</b></span> <br>
 Install Boards Manager > ESP8266 via https://arduino.esp8266.com/stable/package_esp8266com_index.json<br>
 Download and add MFRC522 library via Sketch > Include Library > Add .zip<br>
 Install SoftwareSerial library via Sketch > Include Library > Manage Libraries<br>
