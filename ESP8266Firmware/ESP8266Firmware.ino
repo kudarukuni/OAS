@@ -1,6 +1,6 @@
 #include<SoftwareSerial.h>
 
-SoftwareSerial mySerial(D1, D2); //black, red
+SoftwareSerial mySerial(D1, D2); //TX, RX
 
 void setup(){
   Serial.begin(115200);
