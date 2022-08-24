@@ -1,5 +1,5 @@
 # OAS
-<h3><b>The Orphanage Attendance System</b></h3>
+<h1><b>The Orphanage Attendance System</b></h1>
 
 <b>Arduino IDE Dependencies</b> <br>
 Install Boards Manager > ESP8266 via https://arduino.esp8266.com/stable/package_esp8266com_index.json<br>
