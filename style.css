@@ -1,5 +1,7 @@
 body {
-	background: #030024;
+	background-image: url("https://images.unsplash.com/photo-1509099836639-18ba1795216d");
+	background-repeat: no-repeat;
+	background-size: cover;
 	box-sizing: border-box;
 	color: #000;
 	font-size: 1.8rem;
