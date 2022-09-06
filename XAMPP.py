@@ -4,7 +4,7 @@ import smtplib
 
 TO = 'oasdata123@gmail.com'
 GMAIL_USER = 'oasdata123@gmail.com'
-GMAIL_PASS = 'oasdata$$321'
+GMAIL_PASS = 'tdbhxzlltudwacnv'
 SUBJECT = 'Orphanage Attendance System'
 TEXT1 = 'Inmate Alert !! To see more details go to http://www.oas.ga'
   

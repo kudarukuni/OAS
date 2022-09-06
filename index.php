@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><meta http-equiv="refresh" content="3"><link rel="stylesheet" type="text/css" href="style.css" media="screen"/><link rel="apple-touch-icon" sizes="180x180" href="img/fav-icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="img/fav-icons/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="img/fav-icons/favicon-16x16.png"/><meta name="theme-color" content="#6e7833"><title> T.A.T.S </title></head>
-<body><br><h1><font color="green">HABITATION</font><font color="gold"> OF </font> <font color="black">HOPE</font><font color="white"> AND </font><font color="red"> TRANSFORMATION</font> <font color="purple">CENTRE</font></h1><h2><font color="silver">Inmate Data</font></h2>
+<head><meta http-equiv="refresh" content="3"><link rel="stylesheet" type="text/css" href="style.css" media="screen"/><link rel="apple-touch-icon" sizes="180x180" href="img/fav-icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="img/fav-icons/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="img/fav-icons/favicon-16x16.png"/><meta name="theme-color" content="#6e7833"><title> O.A.S </title><body><br><h1><font color="green">HABITATION</font><font color="gold"> OF </font> <font color="black">HOPE</font><font color="blue"> AND </font><font color="red"> TRANSFORMATION</font> <font color="purple">CENTRE</font></h1><h2><font color="silver">Inmate Data</font></h2>
 <?php
 	$server = "localhost";
 	$username = "root";
